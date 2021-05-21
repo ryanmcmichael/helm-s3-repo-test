@@ -1,7 +1,7 @@
 annotations:
   category: Infrastructure
 apiVersion: v2
-appVersion: 1.19.10
+appVersion: 0.0.2
 dependencies:
 - name: common
   repository: https://charts.bitnami.com/bitnami
